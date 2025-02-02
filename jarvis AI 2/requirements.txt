@@ -1,0 +1,34 @@
+# Backend Dependencies
+flask==2.3.2
+fastapi==0.95.1
+uvicorn==0.22.0
+python-multipart==0.0.6
+
+# AI and NLP Dependencies
+tensorflow==2.12.0
+torch==2.0.1
+transformers==4.29.2
+speechrecognition==3.10.0
+pyttsx3==2.90
+openai==0.27.6
+
+# NLP and Advanced Processing
+spacy==3.5.2
+https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.5.0/en_core_web_lg-3.5.0-py3-none-any.whl
+sentencepiece==0.1.99
+
+# Additional AI and ML Libraries
+numpy==1.24.3
+
+# Task Automation
+selenium==4.9.0
+schedule==1.2.0
+
+# Frontend Dependencies
+react==18.2.0
+react-dom==18.2.0
+axios==1.4.0
+
+# Additional Utilities
+requests==2.30.0
+python-dotenv==1.0.0
